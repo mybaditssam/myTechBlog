@@ -9,8 +9,9 @@ This project is a CMS-style blog site built using JavaScript, Handlebars.js, HTM
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Demo] (#demo)
+- [Demo](#demo)
 - [License](#license)
+- [Deployed App](#deployedapp)
 
 ## Installation
 
@@ -35,7 +36,13 @@ Contributions to this project are welcome! To contribute, follow these steps:
 5. Submit a pull request to the main repository.
 
 ## Demo
+<img width="995" alt="Screenshot 2023-09-18 at 8 37 26 AM" src="https://github.com/mybaditssam/myTechBlog/assets/127529427/6077cf38-bbeb-409b-9585-d73783a5c964">
+<img width="1201" alt="Screenshot 2023-09-18 at 8 37 33 AM" src="https://github.com/mybaditssam/myTechBlog/assets/127529427/50eb7301-979a-4521-85c7-b8de10036b55">
+<img width="1198" alt="Screenshot 2023-09-18 at 8 37 20 AM" src="https://github.com/mybaditssam/myTechBlog/assets/127529427/b1920d0c-b75f-4917-bd7e-706ca605753f">
 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Deployed App
+https://mybaditssamtechblog-cfcac6a5d543.herokuapp.com/
